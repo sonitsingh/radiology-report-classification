@@ -5,6 +5,12 @@ This repository holds work for applying active learning for annotation of radiol
 
 We use the Indiana University Chest X-ray Collection (IU-CXR) dataset [1]. The IU-CXR dataset is curated from two large hospitals within the Indiana network for patient care databases and can be publicly accessed through the open access biomedical image search engine (Open-i). The dataset consists of 7,470 chest X-ray and 3,955 radiology reports. Most of the studies have both the frontal and lateral views of chest X-rays. Each radiology report is in Extensible Markup Language (XML) format having tags for sections, namely, Comparison, Indication, Findings, and Impression. The impression section concludes the study by answering the clinical question. The data is fully de-identified following the Health Insurance Portability and Accountability Act (HIPAA) safe harbour guidelines. 
 
+In this task, we aim to classify a radiology report into one of the four classes described below:
+- Normal
+- Abnormal, with no significant, acute or communicable findings
+- Abnormal, with significant, acute or communicable findings not related to chest
+- Abnormal
+
 
 
 ## References
