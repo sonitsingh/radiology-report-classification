@@ -11,7 +11,11 @@ In this task, we aim to classify a radiology report into one of the four classes
 - Abnormal, with significant, acute or communicable findings not related to chest
 - Abnormal
 
+The following figure shows an example of each of the four classes to which radiologist categorise the given report.
 ![alt text](https://github.com/sonitsingh/radiology-report-classification/blob/main/images/Interface-Examples.png?raw=true)
+
+The annotation interface provided to radiologists is shown below:
+![alt text](https://github.com/sonitsingh/radiology-report-classification/blob/main/images/interface-example1.png?raw=true)
 
 ## References
 [1] Demner-Fushman D, Kohli MD, Rosenman MB, Shooshan SE, Rodriguez L, Antani S, Thoma GR, McDonald CJ. Preparing a collection of radiology examinations for distribution and retrieval. J Am Med Inform Assoc. 2016 Mar;23(2):304-10. doi: 10.1093/jamia/ocv080. Epub 2015 Jul 1. PMID: 26133894; PMCID: PMC5009925.
