@@ -1,5 +1,5 @@
 # radiology-report-classification
-Deep Active Learning for Annotation and Classification of Radiology Reports
+**Deep Active Learning for Annotation and Classification of Radiology Reports**
 
 This repository holds work for applying active learning for annotation of radiology reports and using state-of-the-art text classification models to categorise reports based on the severity of diseases. 
 
